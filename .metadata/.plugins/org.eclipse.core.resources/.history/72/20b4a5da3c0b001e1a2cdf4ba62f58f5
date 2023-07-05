@@ -1,0 +1,6 @@
+
+public class TestGerente {
+	
+	Gerente gerente = new Gerente();
+	gerente.set
+}
